@@ -8,7 +8,6 @@ module.exports = defineConfig({
     defaultCommandTimeout: 10000,
     video: false,
     setupNodeEvents(on, config) {
-      // hooks de node se precisar
     },
   },
 });
